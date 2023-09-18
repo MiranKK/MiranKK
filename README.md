@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itkurd5" target="blank"><img src="https://img.shields.io/twitter/follow/itkurd5?logo=twitter&style=for-the-badge" alt="itkurd5" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **jQuery**
 
 - 📫 How to reach me **mirankawa2002@gmail.com**
 
